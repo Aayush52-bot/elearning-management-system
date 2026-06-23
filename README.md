@@ -47,7 +47,7 @@ To create a centralized online learning platform that enhances accessibility to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aayush52-bot/elearning-management-system.git
+   git clone https://github.com/Aayush52-bot/elearning-management-system
    ```
 
 2. Open the project in **Visual Studio**:
